@@ -26,6 +26,3 @@ jobs:
       run: |
         npm install reactflow
         npm start
-        git add .
-        git commit -m "update"
-        git push origin main
